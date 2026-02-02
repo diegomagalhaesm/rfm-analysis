@@ -1,6 +1,6 @@
-# 📊 Segmentação de Clientes com Análise RFM (Python)
+# Segmentação de Clientes com Análise RFM (Python)
 
-## 📌 Visão Geral
+## Visão Geral
 
 Este projeto aplica a **análise RFM (Recency, Frequency, Monetary)** para segmentar clientes com base em seu comportamento de compra.  
 O objetivo é demonstrar como dados transacionais podem ser transformados em **insights acionáveis de negócio** utilizando Python.
@@ -19,7 +19,7 @@ A análise foi realizada com o **dataset Online Retail II**, disponibilizado pel
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 - **Fonte:** Online Retail II – UCI Machine Learning Repository  
 - **Descrição:** Transações de um e-commerce sediado no Reino Unido  
@@ -113,10 +113,10 @@ As regras foram ajustadas de forma iterativa para evitar a super-representação
 
 │rfm-analysis/
 
-│├── data/ # Dados brutos ou tratados
+├── data/ # Dados brutos ou tratados
 
 ├── notebooks/
 
-│└── rfm_analysis.ipynb
+└── rfm_analysis.ipynb
 
 ├── README.md
